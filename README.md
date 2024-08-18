@@ -6,7 +6,9 @@ Download the sample pdf for demonstration.
 
 
 npm i  --->
-Update your data into js file.
-you can change html file for your need.
-run your file.
+Update your data.
+You can change html file for your need.
+Run your file.
+
+
 
